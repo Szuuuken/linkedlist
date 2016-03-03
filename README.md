@@ -7,7 +7,7 @@ You can view the theme live [here] (https://www.unary.io).
 ### Install
 ```shell
 $ cd octopress
-$ git clone https://github.com/rwwaskk/linkedlist.git .themes/linkedlist
+$ git clone https://github.com/Szuuuken/linkedlist.git .themes/linkedlist
 $ rake install['linkedlist']
 $ rake generate && rake deploy
 ```
